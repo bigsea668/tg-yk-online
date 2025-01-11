@@ -1,0 +1,1 @@
+import{bt as t,as as n}from"./index-DUuzFvel.js";function o(){if(!arguments.length)return[];var a=arguments[0];return t(a)?a:[a]}const u=(...a)=>s=>{a.forEach(r=>{n(r)?r(s):r.value=s})};export{u as a,o as c};
