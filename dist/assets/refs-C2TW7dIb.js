@@ -1,1 +1,0 @@
-import{bu as t,ay as n}from"./index-SkQIWFxF.js";function u(){if(!arguments.length)return[];var a=arguments[0];return t(a)?a:[a]}const o=(...a)=>s=>{a.forEach(r=>{n(r)?r(s):r.value=s})};export{o as a,u as c};
